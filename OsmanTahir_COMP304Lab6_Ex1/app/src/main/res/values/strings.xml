@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OsmanTahir_COMP304Lab6_Ex1</string>
+
+    <string name="hello_world">Welcome to Messaging page!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_message">MessageActivity</string>
+
+    <string-array name="contacts">
+        <item>Larry Page</item>
+        <item>Sergey Brin</item>
+        <item>Eric Schmidt</item>
+        <item>Andy Rubin</item>
+        <item>James Gosling</item>
+        <item>Anders Hejlsberg </item>
+        <item>Bjarne Stroustrup</item>
+
+    </string-array>
+
+</resources>
